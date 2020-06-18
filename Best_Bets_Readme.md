@@ -1,7 +1,7 @@
 # Best Bets for a Successful Premier
 This project is for Flatiron School Data Science Program (https://flatironschool.com/career-courses/data-science-bootcamp/dc) in Washington DC. This project is the conclusion of Mod 1 which is focused on python and data visualization using libraries such as matplotlib, numpy, pandas and seaborn.
 
-#### -- Project Status: [Completed]
+#### Project Status: [Completed]
 
 ## Intro
 The purpose of this project is to analyze movie data for Microsoft. Microsoft is looking to get into the movie business and would like to know what kind of movie is a "safe bet," meaning most likely to earn a significant profit. Movies were analyzed to find the most profitable genres with a high chance of success.
@@ -49,7 +49,7 @@ What defines a safe genre?
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](https://github.com/danhales/mod-1-project/tree/master) within this repo.
-3. Fact checking was done on [imbd.com] (https://www.imdb.com/)\
+3. Fact checking was done on [imbd.com] (https://www.imdb.com/)
 
 ## Featured Deliverables
 
